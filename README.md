@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alazar</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
 - 🌱 I’m currently learning **Cybersecurity & Cloud Computing**
 
